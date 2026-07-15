@@ -714,9 +714,3 @@ journalctl -f
 Log hệ thống giúp theo dõi lỗi, kiểm tra hoạt động của dịch vụ và hỗ trợ quá trình phân tích, xử lý sự cố.
 
 ---
-
-# Tổng kết
-
-Trong tuần đầu tiên, tôi đã tìm hiểu các kiến thức nền tảng về Java Core và Linux Fundamentals. Về Java, tôi nắm được các nguyên lý OOP, SOLID, Interface, Abstract Class, Static, Collection Framework và Exception Handling. Về Linux, tôi làm quen với cấu trúc hệ thống tệp, cơ chế phân quyền, quản lý tiến trình, xử lý văn bản, các công cụ mạng, giám sát tài nguyên, Shell Script và các khái niệm như Process Lifecycle, I/O Redirection và System Logs.
-
-Những kiến thức này là nền tảng quan trọng để phát triển ứng dụng Backend bằng Java, đồng thời hỗ trợ quá trình làm việc với môi trường Linux trong các giai đoạn phát triển, kiểm thử và triển khai hệ thống.
