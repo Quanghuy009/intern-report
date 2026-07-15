@@ -315,9 +315,3 @@ Một số chỉ số phổ biến:
 Các chỉ số này giúp đánh giá mức độ ổn định và khả năng bảo trì của phần mềm.
 
 ---
-
-# Tổng kết
-
-Trong tuần thứ hai, em đã tìm hiểu cơ chế hoạt động của các Collection phổ biến trong Java, nguyên lý của HashMap và HashSet, mối quan hệ giữa `hashCode()` và `equals()`, cùng với các Collection hỗ trợ đa luồng. Bên cạnh đó, em đã nghiên cứu bốn Design Pattern cơ bản gồm Singleton, Factory, Observer và Strategy để hiểu cách tổ chức và mở rộng mã nguồn hiệu quả.
-
-Về Testing, em tìm hiểu các nguyên tắc của Unit Testing, cách sử dụng JUnit 5, kỹ thuật Mocking, chiến lược Integration Testing và các chỉ số đánh giá chất lượng như Test Coverage và Quality Metrics. Những kiến thức này là nền tảng quan trọng để phát triển các ứng dụng Java có chất lượng, dễ kiểm thử và dễ bảo trì.
